@@ -68,19 +68,6 @@ EduGenie provides a complete learning experience — from discovering courses to
    npm run preview
    ```
 
-## Screenshots
-
-> Add screenshots of the following pages after running the project:
-> - Home Page (Hero + Features)
-> - About Page
-> - Registration Page
-> - Login Page
-> - Student Dashboard
-> - Courses Page
-> - Quiz Page (Question + Results)
-> - Progress Tracking Page (Charts)
-> - Contact Page
-> - Dark Mode Toggle
 
 ## Project Structure
 
@@ -151,7 +138,7 @@ Recommendations are displayed on the dashboard and on the quiz results page, ada
 ## Author Information
 
 **Project:** EduGenie – Smart Personalized Learning Platform
-**Author:** [Your Name]
+**Author:** [Deepa T]
 **Email:** support@edugenie.com
 **GitHub:** [https://github.com/yourusername/edugenie](https://github.com/yourusername/edugenie)
 
