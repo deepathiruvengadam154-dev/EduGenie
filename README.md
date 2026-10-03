@@ -142,6 +142,9 @@ Recommendations are displayed on the dashboard and on the quiz results page, ada
 **Email:** support@edugenie.com
 **GitHub:** [https://github.com/yourusername/edugenie](https://github.com/yourusername/edugenie)
 
+##LIVE DEMO LINK
+https://edugenie-personalize-15ld.bolt.host/#
+
 ---
 
 © 2026 EduGenie. All rights reserved.
